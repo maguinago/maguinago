@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @maguinago, I am finishing my BA in International Relations, with a minor in Data Analysis and a minor in Languages in September 2022.
-- 👀 I’m interested in Information Systems and Data Management.
-- 🌱 I’m currently learning Python through the Udemy Python 2022 Complete Bootcamp.
+- 👋 Hi, I’m @maguinago, I am a developer based in Brazil. Currently pursuing my degree in Software Analysis and Development at PUCRS.
+- 👀 I’m interested in Python Development, Information Systems, and Database Management.
+- 🌱 Currently working on a WebApp project running on Django.
+  
 - 📫 You can reach me through my email: knorstmagnago@gmail.com.
 
 <!---
