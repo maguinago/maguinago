@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maguinago, a developer based in Brazil. Currently pursuing my degree in Software Analysis and Development at PUCRS.
 - 👀 I’m interested in Python Development, Information Systems, and Database Management.
-- 🌱 Currently working on a WebApp project running on Django.
+- 🌱 Currently working on WebApp projects running on Django.
   
 - 📫 You can reach me through my email: knorstmagnago@gmail.com.
 
